@@ -5,3 +5,7 @@ Hello bucko, this README.md is a series of notes to keep track on everything I a
 Purpose of the project: This is a simple "create a project" with HTML where I am going to create a recipes websites, however, the things that I am going to change is that this project will be the only project that I am going to do in this course since I will create it in this section but will used in all the others adding the things I will learn in the future.
 
 The real purpose of this is to have one big project instead of 20 small project that doesn't do anything more than waste space on my github and computer.
+
+# Version 1.0
+
+THis version of my website will focus on HTML and only html. once everything is done and outline I will pass to the next section and learn everything about CSS and then apply it to the project.
